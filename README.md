@@ -11,7 +11,7 @@ This software requires an installed [HLIBpro library](https://www.hlibpro.com/ "
 
 An **introduction to this software including installation instructions** can be found in this package under */documentation/hamls_documentation.html*.
 
-This software is licensed under the MIT License. For questions or needed support contact peter_gerds@gmx.de. 
+This software is licensed under the MIT License. For questions or needed consultation contact peter_gerds@gmx.de. 
 
 ---
 
