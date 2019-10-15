@@ -808,6 +808,7 @@ The complete program, including some evaluation output, is given in the followin
 be available in the program's working directory. As mentioned above, these files contain the 
 sparse matrices $K$, $M$ and the geometric representatives $(\xi_i)_{i=1}^{N}$
 of the used finite element discretisation saved in the corresponding HLIBpro data format.
+For demonstration purposes, the HAMLS package includes sample files resulting from the discretisation of the Laplace Eigenvalue problem defined on the unit cube. With these sample files, the following program can be executed. For discretisation of this example problem, however, only a few thousand degrees of freedom have been used. Note that such a problem size is still too small to demonstrate the computational superiority of H-AMLS.
 
 ~~~~~~{.C}
 #include <iostream>
