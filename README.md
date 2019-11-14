@@ -1,6 +1,6 @@
 # HAMLS 
 
-### Eigensovler Module for HLIBpro's Hierarchical Matrices and Elliptic PDE Eigenvalue Problems
+### Eigensolver Module for HLIBpro's Hierarchical Matrices and Elliptic PDE Eigenvalue Problems
 
 
 This software implements the so called *H-AMLS* method which has been introduced in  (Gerds 2017; Gerds and Grasedyck 2015). H-AMLS is a very efficient method for the solution of elliptic PDE eigenvalue problems. The method is combining a recursive version of the *automated multi-level substructuring* (short AMLS) method - which is a domain decomposition technique for the solution of elliptic PDE eigenvalue problems - with the concept of *hierarchical matrices* (short *H-matrices*). H-AMLS allows the efficient solution of large scale eigenvalue problems with millions degrees of freedom on today's workstations. In particular, the method is well suited for problems posed in three dimensions and allows the computation of a large amount of eigenpair approximations in optimal complexity.
